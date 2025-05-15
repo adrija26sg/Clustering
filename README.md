@@ -2,7 +2,8 @@
 
 This project explores clustering techniques on the Seeds dataset using various preprocessing methods. We evaluate the performance of K-Means, Hierarchical Clustering, and KMeans Shift, alongside different levels of data preprocessing such as normalization, transformation, and PCA.
 
-
+## colab link
+[code](https://colab.research.google.com/drive/11yX7q6RxlAhLwa61zhT_pfjBOfVSvaNf?usp=sharing)
 
 ## 📊 Dataset
 - **Name**: Seeds Dataset  
