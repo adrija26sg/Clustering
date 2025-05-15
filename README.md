@@ -56,4 +56,4 @@ The clustering results were visualized using 2D projections after applying PCA t
 - **Silhouette analysis** confirmed the quality of clustering, with the best score achieved using K-Means after full preprocessing. A higher silhouette score indicates that the data points are well-matched within their clusters and distinct from other clusters.
 
 ## 📄 PDF Report
-A full breakdown of results and metrics is available in the [PDF report](https://github.com/AnMaster15/clustering/blob/main/Results_Clustering%20(1)%202%20(1).pdf)
+A full breakdown of results and metrics is available in the [PDF report](https://github.com/adrija26sg/Clustering/blob/main/Results_Clustering%20.pdf.pdf)
